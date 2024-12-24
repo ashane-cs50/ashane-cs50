@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashane
+# 👋 Hello there, I’m Ashane
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently taking CS50x's course
 - 💞️ I’m looking to collaborate on nothing yet

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: Email (<6752@tiffin.kingston.sch.uk>)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was born with prearicular pits in both my ears. A prearicular pit is only found in 1/100 babies born, and since I have two, you could say I'm doubly as special! (not really)
+- ⚡ Fun fact: I was born with prearicular pits in both my ears. A prearicular pit is a little hole in the side of an ear, only found in 1/100 babies born. Since I have two, you could say I'm doubly as special! (not really)
 
 <!---
 ashane-cs50/ashane-cs50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
